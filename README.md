@@ -6,9 +6,9 @@ Usage:
     move all files here to examples/cam/   
    
 (2) download image file 'experiment1_images.tensor' from this link:   
-   
+	http://pan.baidu.com/s/1qXWmcva      
     download pre-trained CAM model 'final.marvin' from this link:   
-   
+    http://pan.baidu.com/s/1i5t0Sa5    
     download marvin alexnet pre-trained model 'alexnet_imagenet_half.marvin' from this link:   
 	http://vision.princeton.edu/marvin/models/alexnet_imagenet/alexnet_imagenet_half.marvin   
    
@@ -23,4 +23,6 @@ Usage:
    
 (5) run demo script 'cam.m'   
    
-Note: This dataset is generated from VOC2012, labels are generated from semantic segmentation mask by choosing the most frequent one. Around 6000 samples.
+![image](cam_results.png)
+
+Note: This dataset is generated from VOC2012, labels are generated from semantic segmentation mask by choosing the most frequent one. 6218 samples in total.
