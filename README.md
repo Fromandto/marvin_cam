@@ -23,6 +23,6 @@ Usage:
    
 (5) run demo script 'cam.m'   
    
-![image](cam_results.png)
+![image](cam_results.jpg)
 
 Note: This dataset is generated from VOC2012, labels are generated from semantic segmentation mask by choosing the most frequent one. 6218 samples in total.
